@@ -8,17 +8,17 @@
   position: relative;
 }
 
+.section-title {
+  color: #2ddf5c;
+  text-align: center;
+}
+
 #product-overview h1 {
   color: white;
   font-family: "Anton", sans-serif;
   position: absolute;
-  bottom: 10px;
-  left: 50px;
-}
-
-.section-title {
-  color: #2ddf5c;
-  text-align: center;
+  bottom: 5%;
+  left: 3%;
 }
 
 .plans__list {
